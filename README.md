@@ -7,7 +7,7 @@
 
 <h3> 統合データベース講習会：AJACS本郷7ポスター　(2010.10)  </h3>
 <a target=_blank href="AJACS22.pdf"><img src="AJACS22.jpg" align="left" hight="180" width="135" alt="AJACS本郷7"></a>
-
+<div style="clear:both;"> </div>
 
 <h3> 統合データベース講習会：AJACSみちのくポスター　(2010.8)  </h3>
 <a target=_blank href="ajacs21.pdf"><img src="ajacs21.jpg" align="left" hight="180" width="135" alt="AJACS湘南3"></a>
