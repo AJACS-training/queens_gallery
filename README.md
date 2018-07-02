@@ -2,7 +2,7 @@
 # queens_gallery
 
 <h3> 統合データベース講習会：AJACS近江3ポスター　(2010.10)  </h3>
-<a target=_blank href="Ajacs23.pdf"><img src="Ajacs23.jpg" align="left" hight="180" width="135" alt="AJACS近江3"></a>
+,p><a target=_blank href="Ajacs23.pdf"><img src="Ajacs23.jpg" align="left" hight="180" width="135" alt="AJACS近江3"></a></p>
 
 
 <div style="clear:both;"></div>
