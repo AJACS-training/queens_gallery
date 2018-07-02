@@ -5,7 +5,7 @@
 <a target=_blank href="Ajacs23.pdf"><img src="Ajacs23.jpg" align="left" hight="180" width="135" alt="AJACS近江3"></a>
 
 
-<div style="clear:both"></div>
+<div style="clear:both;"></div>
 
 
 <h3 style="clear:both;"> 統合データベース講習会：AJACS本郷7ポスター　(2010.10)  </h3>
