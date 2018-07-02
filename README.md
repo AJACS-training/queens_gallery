@@ -64,5 +64,5 @@
 
 
 
-<a target=_blank href="080703poster.pdf"><img src="080703poster.jpg" align="left" hight="180" width="135" alt="AJACS本郷1" title=" 統合データベース講習会：AJACS本郷1ポスター　(2008.7)"></a>
+<p><a target=_blank href="080703poster.pdf"><img src="080703poster.jpg" align="left" hight="180" width="135" alt="AJACS本郷1" title=" 統合データベース講習会：AJACS本郷1ポスター　(2008.7)"></a></p>
 
