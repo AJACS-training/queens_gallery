@@ -2,15 +2,10 @@
 # queens_gallery
 
 <h3> 統合データベース講習会：AJACS近江3ポスター　(2010.10)  </h3>
-<p><a target=_blank href="Ajacs23.pdf"><img src="Ajacs23.jpg" align="left" hight="180" width="135" alt="AJACS近江3"></a></p>
+<a target=_blank href="Ajacs23.pdf"><img src="Ajacs23.jpg" align="left" hight="180" width="135" alt="AJACS近江3" title="統合データベース講習会：AJACS近江3ポスター　(2010.10)"></a>
 
 
-<div style="clear:both;"></div>
-<div style="
-    clear:  both;
-"></div>
-
-<h3 style="clear:both;"> 統合データベース講習会：AJACS本郷7ポスター　(2010.10)  </h3>
+<h3> 統合データベース講習会：AJACS本郷7ポスター　(2010.10)  </h3>
 <a target=_blank href="AJACS22.pdf"><img src="AJACS22.jpg" align="left" hight="180" width="135" alt="AJACS本郷7"></a>
 
 <h3> 統合データベース講習会：AJACSみちのくポスター　(2010.8)  </h3>
