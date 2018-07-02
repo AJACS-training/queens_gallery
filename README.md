@@ -56,7 +56,7 @@
 
 
 
-<a target=_blank href="ajacs5poster.pdf"><img src="ajacs5poster1.png" align="left" hight="180" width="135"　alt="AJACS博多" title=" 統合データベース講習会：AJACS博多ポスター　(2008.10)"></a>
+<a target=_blank href="ajacs5poster.pdf"><img src="ajacs5poster1.png" align="left" hight="180" width="135" alt="AJACS博多" title=" 統合データベース講習会：AJACS博多ポスター　(2008.10)"></a>
 
 
 
