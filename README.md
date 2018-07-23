@@ -20,7 +20,9 @@
 <a target=_blank href="ajacs55_poster.pdf"><img src="ajacs55_poster.png" align="left" hight="180" width="135" alt="AJACS55" title="統合データベース講習会：AJACS米子ポスター　(2015.08)"></a>
 <a target=_blank href="ajacs54_poster.pdf"><img src="ajacs54_poster.png" align="left" hight="180" width="135" alt="AJACS54" title="統合データベース講習会：AJACS千里ポスター　(2015.06)"></a>
 <a target=_blank href="ajacs53_poster.pdf"><img src="ajacs53_poster.png" align="left" hight="180" width="135" alt="AJACS53" title="統合データベース講習会：AJACS御茶ノ水ポスター　(2015.05)"></a>
-
+<a target=_blank href="ajacs52.pdf"><img src="ajacs52.png" align="left" hight="180" width="135" alt="AJACS52" title="統合データベース講習会：AJACS府中ポスター　(2015.03)"></a>
+<a target=_blank href="ajacs51.pdf"><img src="ajacs51.png" align="left" hight="180" width="135" alt="AJACS51" title="統合データベース講習会：AJACS岩手ポスター　(2014.12)"></a>
+<a target=_blank href="ajacs50.pdf"><img src="ajacs50.png" align="left" hight="180" width="135" alt="AJACS50" title="統合データベース講習会：AJACS十勝ポスター　(2014.09)"></a>
 <a target=_blank href="Ajacs23.pdf"><img src="Ajacs23.jpg" align="left" hight="180" width="135" alt="AJACS近江3" title="統合データベース講習会：AJACS近江3ポスター　(2010.10)"></a>
 
 
