@@ -49,6 +49,10 @@
 <a target=_blank href="ajacs29.pdf"><img src="ajacs29.png" align="left" hight="180" width="135" alt="AJACS29" title="統合データベース講習会：AJACS本郷11ポスター　(2012.03)"></a>
 <a target=_blank href="ajacs28.pdf"><img src="ajacs28.png" align="left" hight="180" width="135" alt="AJACS28" title="統合データベース講習会：AJACS本郷10ポスター　(2012.02)"></a>
 
+<a target=_blank href="ajacs25.pdf"><img src="ajacs25.png" align="left" hight="180" width="135" alt="AJACS25" title="統合データベース講習会：AJACS本郷8ポスター　(2011.03)"></a>
+
+<a target=_blank href="ajacs23.pdf"><img src="ajacs23.jpg" align="left" hight="180" width="135" alt="AJACS23" title="統合データベース講習会：AJACS近江３ポスター　(2010.11)"></a>
+
 <a target=_blank href="AJACS22.pdf"><img src="AJACS22.jpg" align="left" hight="180" width="135" alt="AJACS本郷7" title=" 統合データベース講習会：AJACS本郷7ポスター　(2010.10)"></a>
 
 
