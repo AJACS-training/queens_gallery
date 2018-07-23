@@ -2,8 +2,24 @@
 # queens_gallery
 
 
-<a target=_blank href="ajacs70_poster.pdf"><img src="ajacs70_poster.png" align="left" hight="180" width="135" alt="AJACS" title="統合データベース講習会：AJACS筑波４ポスター　(2018.06)"></a>
-
+<a target=_blank href="ajacs70_poster.pdf"><img src="ajacs70_poster.png" align="left" hight="180" width="135" alt="AJACS70" title="統合データベース講習会：AJACS筑波４ポスター　(2018.07)"></a>
+<a target=_blank href="ajacs69_poster.pdf"><img src="ajacs69_poster.png" align="left" hight="180" width="135" alt="AJACS69" title="統合データベース講習会：AJACS越後ポスター　(2018.06)"></a>
+<a target=_blank href="ajacs68_poster.pdf"><img src="ajacs68_poster.png" align="left" hight="180" width="135" alt="AJACS68" title="統合データベース講習会：AJACS浜松ポスター　(2018.01)"></a>
+<a target=_blank href="ajacs67_poster.pdf"><img src="ajacs67_poster.png" align="left" hight="180" width="135" alt="AJACS67" title="統合データベース講習会：AJACS下総ポスター　(2017.12)"></a>
+<a target=_blank href="ajacs66_poster.pdf"><img src="ajacs66_poster.png" align="left" hight="180" width="135" alt="AJACS66" title="統合データベース講習会：AJACS河内ポスター　(2017.08)"></a>
+<a target=_blank href="ajacs65_poster.pdf"><img src="ajacs65_poster.png" align="left" hight="180" width="135" alt="AJACS65" title="統合データベース講習会：AJACS本郷14ポスター　(2017.06)"></a>
+<a target=_blank href="ajacs64_poster.pdf"><img src="ajacs64_poster.png" align="left" hight="180" width="135" alt="AJACS64" title="統合データベース講習会：AJACS尾張ポスター　(2017.01)"></a>
+<a target=_blank href="ajacs63_poster.pdf"><img src="ajacs63_poster.png" align="left" hight="180" width="135" alt="AJACS63" title="統合データベース講習会：AJACS東女医大ポスター　(2016.09)"></a>
+<a target=_blank href="ajacs62_poster.pdf"><img src="ajacs62_poster.png" align="left" hight="180" width="135" alt="AJACS62" title="統合データベース講習会：AJACS京都２ポスター　(2016.09)"></a>
+<a target=_blank href="ajacs61_poster.pdf"><img src="ajacs61_poster.png" align="left" hight="180" width="135" alt="AJACS61" title="統合データベース講習会：AJACSこまちポスター　(2016.08)"></a>
+<a target=_blank href="ajacs60_poster.pdf"><img src="ajacs60_poster.png" align="left" hight="180" width="135" alt="AJACS60" title="統合データベース講習会：AJACS安芸ポスター　(2016.07)"></a>
+<a target=_blank href="ajacs59_poster.pdf"><img src="ajacs59_poster.png" align="left" hight="180" width="135" alt="AJACS59" title="統合データベース講習会：AJACS前橋ポスター　(2016.06)"></a>
+<a target=_blank href="ajacs58_poster.pdf"><img src="ajacs58_poster.png" align="left" hight="180" width="135" alt="AJACS58" title="統合データベース講習会：AJACS薩摩ポスター　(2016.01)"></a>
+<a target=_blank href="ajacs57_poster.pdf"><img src="ajacs57_poster.png" align="left" hight="180" width="135" alt="AJACS57" title="統合データベース講習会：AJACS伊予ポスター　(2015.09)"></a>
+<a target=_blank href="ajacs56_poster.pdf"><img src="ajacs56_poster.png" align="left" hight="180" width="135" alt="AJACS56" title="統合データベース講習会：AJACS津軽ポスター　(2015.09)"></a>
+<a target=_blank href="ajacs55_poster.pdf"><img src="ajacs55_poster.png" align="left" hight="180" width="135" alt="AJACS55" title="統合データベース講習会：AJACS米子ポスター　(2015.08)"></a>
+<a target=_blank href="ajacs54_poster.pdf"><img src="ajacs54_poster.png" align="left" hight="180" width="135" alt="AJACS54" title="統合データベース講習会：AJACS千里ポスター　(2015.06)"></a>
+<a target=_blank href="ajacs53_poster.pdf"><img src="ajacs53_poster.png" align="left" hight="180" width="135" alt="AJACS53" title="統合データベース講習会：AJACS御茶ノ水ポスター　(2015.05)"></a>
 
 <a target=_blank href="Ajacs23.pdf"><img src="Ajacs23.jpg" align="left" hight="180" width="135" alt="AJACS近江3" title="統合データベース講習会：AJACS近江3ポスター　(2010.10)"></a>
 
