@@ -25,7 +25,29 @@
 <a target=_blank href="ajacs50.pdf"><img src="ajacs50.png" align="left" hight="180" width="135" alt="AJACS50" title="統合データベース講習会：AJACS十勝ポスター　(2014.09)"></a>
 <a target=_blank href="Ajacs23.pdf"><img src="Ajacs23.jpg" align="left" hight="180" width="135" alt="AJACS近江3" title="統合データベース講習会：AJACS近江3ポスター　(2010.10)"></a>
 
+<a target=_blank href="ajacs50.pdf"><img src="ajacs50.png" align="left" hight="180" width="135" alt="AJACS50" title="統合データベース講習会：AJACS十勝ポスター　(2014.09)"></a>
+<a target=_blank href="ajacs49.pdf"><img src="ajacs49.png" align="left" hight="180" width="135" alt="AJACS49" title="統合データベース講習会：AJACS阿波ポスター　(2018.08)"></a>
+<a target=_blank href="ajacs48.pdf"><img src="ajacs48.png" align="left" hight="180" width="135" alt="AJACS48" title="統合データベース講習会：AJACS信濃ポスター　(2014.07)"></a>
 
+<a target=_blank href="ajacs46.pdf"><img src="ajacs46.png" align="left" hight="180" width="135" alt="AJACS46" title="統合データベース講習会：AJACS出島ポスター　(2014.07)"></a>
+
+<a target=_blank href="ajacs44.pdf"><img src="ajacs44.jpg" align="left" hight="180" width="135" alt="AJACS44" title="統合データベース講習会：AJACS肥後ポスター　(2014.01)"></a>
+<a target=_blank href="ajacs43.pdf"><img src="ajacs43.png" align="left" hight="180" width="135" alt="AJACS43" title="統合データベース講習会：AJACS蝦夷３ポスター　(2013.11)"></a>
+<a target=_blank href="ajacs42.pdf"><img src="ajacs42.png" align="left" hight="180" width="135" alt="AJACS42" title="統合データベース講習会：AJACS富山ポスター　(2013.08)"></a>
+<a target=_blank href="ajacs41.pdf"><img src="ajacs41.png" align="left" hight="180" width="135" alt="AJACS41" title="統合データベース講習会：AJACS琉球ポスター　(2013.07)"></a>
+<a target=_blank href="ajacs40.pdf"><img src="ajacs40.png" align="left" hight="180" width="135" alt="AJACS40" title="統合データベース講習会：AJACS岐阜ポスター　(2013.07)"></a>
+
+<a target=_blank href="ajacs38.pdf"><img src="ajacs38.png" align="left" hight="180" width="135" alt="AJACS38" title="統合データベース講習会：AJACS筑波３ポスター　(2013.05)"></a>
+
+<a target=_blank href="ajacs36.pdf"><img src="ajacs36.png" align="left" hight="180" width="135" alt="AJACS36" title="統合データベース講習会：AJACS駿河ポスター　(2013.01)"></a>
+<a target=_blank href="ajacs35.pdf"><img src="ajacs35.jpg" align="left" hight="180" width="135" alt="AJACS35" title="統合データベース講習会：AJACS京都ポスター　(2012.11)"></a>
+<a target=_blank href="ajacs34.pdf"><img src="ajacs34.jpg" align="left" hight="180" width="135" alt="AJACS34" title="統合データベース講習会：AJACSみちのく２ポスター　(2012.08)"></a>
+<a target=_blank href="ajacs33.pdf"><img src="ajacs33.jpg" align="left" hight="180" width="135" alt="AJACS33" title="統合データベース講習会：AJACS筑波２ポスター　(2012.08)"></a>
+<a target=_blank href="ajacs32.pdf"><img src="ajacs32.jpg" align="left" hight="180" width="135" alt="AJACS32" title="統合データベース講習会：AJACS名古屋ポスター　(2012.07)"></a>
+<a target=_blank href="ajacs31.pdf"><img src="ajacs31.jpg" align="left" hight="180" width="135" alt="AJACS31" title="統合データベース講習会：AJACS宮崎ポスター　(2012.06)"></a>
+
+<a target=_blank href="ajacs29.pdf"><img src="ajacs29.png" align="left" hight="180" width="135" alt="AJACS29" title="統合データベース講習会：AJACS本郷11ポスター　(2012.03)"></a>
+<a target=_blank href="ajacs28.pdf"><img src="ajacs28.png" align="left" hight="180" width="135" alt="AJACS28" title="統合データベース講習会：AJACS本郷10ポスター　(2012.02)"></a>
 
 <a target=_blank href="AJACS22.pdf"><img src="AJACS22.jpg" align="left" hight="180" width="135" alt="AJACS本郷7" title=" 統合データベース講習会：AJACS本郷7ポスター　(2010.10)"></a>
 
