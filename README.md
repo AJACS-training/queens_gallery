@@ -1,6 +1,10 @@
 
 # queens_gallery
 
+
+<a target=_blank href="ajacs70.pdf"><img src="ajacs70.jpg" align="left" hight="180" width="135" alt="AJACS" title="統合データベース講習会：AJACS近江3ポスター　(2010.10)"></a>
+
+
 <a target=_blank href="Ajacs23.pdf"><img src="Ajacs23.jpg" align="left" hight="180" width="135" alt="AJACS近江3" title="統合データベース講習会：AJACS近江3ポスター　(2010.10)"></a>
 
 
